@@ -1,0 +1,24 @@
+html {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  text-align: left;
+  font-family: 'Nothing You Could Do', cursive;
+  background-image: url('https://img00.deviantart.net/8ce1/i/2005/258/c/9/paper_texture_v4_by_bashcorpo.jpg')
+}
+
+h1 {
+  font-size: 56px;
+  font-weight: bold;
+}
+
+.item-insert {
+  font-size: 20px;
+
+}
+
+button {
+    font-family: 'Nothing You Could Do', cursive;
+}
